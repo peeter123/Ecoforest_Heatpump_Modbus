@@ -7,7 +7,7 @@ Analog,5,Compressor suction temperature,°C,-,-,R,
 Analog,6,Compressor suction pressure (low pressure),bar,-,-,R,
 Analog,7,Compressor discharge pressure (high pressure),bar,-,-,R,
 Analog,8,DHW temperature,°C,-,-,R,
-Analog,9,Airunit speed,%,-,-,R,
+Analog,9,Air unit fan speed,%,-,-,R,/10
 Analog,11,Outside temperature,°C,-,-,R,
 Analog,12,Recirculation temperature,°C,-,-,R,Depending on installation register might be used by recirculation
 Analog,13,Brine circuit pressure,bar,-,-,R,
